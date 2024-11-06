@@ -1,0 +1,120 @@
+body {
+    font-family: sans-serif;
+    background-color: #3C3D37;
+    color: #ebe2d5;
+    text-decoration: none;
+}
+header{
+    background-color: #1E201E;
+    size-adjust: 100%;
+    display: flex;
+    justify-content: left;
+}
+.AlgoritmosG{
+    text-align: center;
+    display:block;
+    gap: 10px;
+}
+ul{
+    list-style-type: none;
+}
+.cronos {
+    text-align: center;
+    size: 50px;
+    text-decoration: none;
+    background-color: #ffb048;
+    color: #ebe2d5;
+    padding: 6px;
+    border-radius: 4px;
+    width: 70px;
+    height: fit-content;
+}
+li {
+    padding: 6px;
+    background-color: #2d2e2b;
+    text-align: left;
+    font-size: 30px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.imgalg img{
+    text-align: left;
+    width: 15em;
+}
+a {
+    text-decoration: none;
+    color: #ebe2d5;
+    text-align: center;
+}
+
+fieldset{
+    border-radius: 8px;
+    padding: 6px;
+    width: 50%;
+    row-gap: 5px;
+}
+footer {
+    background-color: #1E201E;
+    size-adjust: 100%;
+}
+.alg-list {
+    text-align: center;
+    font-size: 25px;
+}
+.Logo {
+    font-size: 60px;
+}
+label {
+    font-size: 15px;
+}
+.columnas {
+    display: flex;
+    justify-content: space-around;
+}
+.Algoritmos {
+    height: fit-content;
+}
+.set-up {
+    height: fit-content;
+}
+.alg-fieldsets {
+    display: inline-block;
+}
+#cronometro {
+    font-size: 15em;
+}
+.logo-header img{
+    width: 5em;
+}
+.follow-us img {
+    width: 5em;
+}
+.footer-info{
+    display: flex;
+    justify-content: space-around;
+}
+.logoc img {
+    width: 10em;
+}
+.nuestrosserv > a {
+    text-decoration: underline;
+}
+.contact > a {
+    text-decoration: underline;
+}
+span {
+    font-weight: bolder;
+}
+.indice {
+    display: flex;
+    justify-content: space-around;
+}
+.Cronos-index img {
+    width: 350px;
+    height: auto;
+}
+.Alg-index img {
+    width: 350px;
+    height: auto;
+}
